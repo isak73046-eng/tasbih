@@ -1,0 +1,15 @@
+name: my_app
+description: Asma ul Husna
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  share_plus: ^10.1.4
+  shared_preferences: ^2.3.3
+
+flutter:
+  uses-material-design: true
